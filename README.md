@@ -1,4 +1,3 @@
-hanoi
+Hanoi Tower Solver Algorithm
 =====
-
-hanoi
+Written in C
