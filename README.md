@@ -1,3 +1,1 @@
-Hanoi Tower Solver Algorithm
-=====
-Written in C
+Hanoi Tower Solver Algorithm in C
